@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="py-sonaion-analysis",
+    name="py-sonaion-fixation",
     version="0.0.1",
     description="Library for calculating Eyetracking event (fixations/ sacades/ glissades).",
     long_description=README,
